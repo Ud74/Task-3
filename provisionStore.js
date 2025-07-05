@@ -89,7 +89,7 @@ class ProvisionStore {
 }
 
 // Example usage:
-const store = new ProvisionStore("Anie’s Store", "Lagos");
+const store = new ProvisionStore("Ud’s Store", "Lagos");
 
 // Add products
 const prod1 = store.addProduct("Rice", 20000, "in-stock");
